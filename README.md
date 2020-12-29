@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=ibnuprtma&theme=tokyonight&show_icons=true&line_height=27)](https://github.com/Audhy/Audhy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnuprtma&hide=css,blade,html&theme=tokyonight)](https://github.com/Audhy/Audhy)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Audhy&theme=tokyonight&show_icons=true&line_height=27)](https://github.com/Audhy/Audhy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Audhy&hide=css,blade,html&theme=tokyonight)](https://github.com/Audhy/Audhy)
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
