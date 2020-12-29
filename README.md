@@ -22,5 +22,3 @@ Here are some ideas to get you started:
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 
 <!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/ibnuprtma
